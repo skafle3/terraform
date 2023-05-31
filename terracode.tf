@@ -37,6 +37,6 @@ resource "aws_instance" "web_instance" {
   vpc_security_group_ids = [aws_security_group.web_sg.id]
 
   tags = {
-    Name = "web-instance"
+    Name = "JenkinsTerraform"
   }
 }
