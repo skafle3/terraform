@@ -1,8 +1,8 @@
 # provider.tf
 provider "aws" {
   region = "us-east-1"  # Update with your desired AWS region
-  access_key = "AKIAQMTSURRCULHMVDEC"
-  secret_key = "k26iRh02j9DM7W0m+Xqt7RtPUTGUEpTK37CKZ9q2"
+  access_key = ""
+  secret_key = ""
 }
 
 # main.tf
