@@ -1,6 +1,6 @@
 # provider.tf
-#NewlineofCode
+# NewlineofCode
 provider "aws" {
-  region = "us-east-1"  # Update with your desired AWS region
+  region = "us-east-1"
 }
 
